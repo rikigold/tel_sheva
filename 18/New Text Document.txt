@@ -1,0 +1,1 @@
+https://rikigold.github.io/mapton/{zoom}/{x}/{y}.png.
